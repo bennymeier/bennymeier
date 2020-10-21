@@ -19,7 +19,7 @@ I'm a trained Front End Developer studying dual Business Informatics at <strong>
 ## Hobbies
 ☕️ Tea Enthusiast <br/>
 ⛷️ Avid Skier </br>
-💻 Programming
+💻 Programming </br>
 📸 Photography
 
 ## Connect with Me
