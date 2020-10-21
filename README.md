@@ -12,7 +12,7 @@ I'm a Front End Developer studying dual Business Informatics at <strong>DHBW Lö
 
 ## My Values
 🧠 Thoughtful <br/>
-🖤 Authentic Expression <br/>
+🙋‍Authentic Expression <br/>
 💡 Mindset of Learning & Curiosity <br/>
 🙌 Teamwork & Communication
 
