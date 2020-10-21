@@ -4,7 +4,7 @@ I'm a trained Front End Developer studying dual Business Informatics at <strong>
 ## Current Projects <br/>
 > ⏳ [MERN-Stack Jira Clone](https://github.com/bennymeier/mern-stack-project-management) - Trying to build a Jira Clone with MongoDB, Express, React and Node.js
 
-> 🎵 [YT-Downloader](https://github.com/bennymeier/new-youtube-downloader) - YouTube downloader built with React & Node.js
+> 🎵 [YT-Downloader](https://github.com/bennymeier/youtube-downloader) - YouTube downloader built with React & Node.js
 
 > ☂️ [React Weather App](https://github.com/bennymeier/react-weather-app) - Trying to redesign my Weather App built with React
 
