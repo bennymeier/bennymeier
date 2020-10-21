@@ -1,5 +1,5 @@
 # Hi there, I'm Benny 👋🏻
-I'm a Front End Developer studying dual Business Informatics at <strong>DHBW Lörrach</strong>. I'm currently co-oping at United Planet GmbH, where I previously did my apprenticeship as a Frontend Developer.
+I'm a trained Front End Developer studying dual Business Informatics at <strong>DHBW Lörrach</strong>. I'm currently co-oping at United Planet GmbH, where I previously did my apprenticeship as a Frontend Developer.
 
 ## Current Projects <br/>
 > ⏳ [MERN-Stack Jira Clone](https://github.com/bennymeier/mern-stack-project-management) - Trying to build a Jira Clone with MongoDB, Express, React and Node.js
