@@ -22,6 +22,8 @@ I'm a trained Front End Developer studying dual Business Informatics at <strong>
 🙌 Teamwork & Communication
 <!--END_SECTION:values-->
 
+---
+
 ##### Hobbies
 <!--START_SECTION:hobbies-->
 ☕️ Tea Enthusiast <br/>
@@ -29,6 +31,8 @@ I'm a trained Front End Developer studying dual Business Informatics at <strong>
 💻 Programming </br>
 📸 Photography
 <!--END_SECTION:hobbies-->
+
+---
 
 ##### Connect with Me
 <!--START_SECTION:connect-->
