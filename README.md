@@ -39,6 +39,7 @@ I'm a trained Front End Developer studying dual Business Informatics at <strong>
 ##### Connect with Me
 <!--START_SECTION:connect-->
 * [Portfolio](https://www.bennymeier-media.de) <br/>
+* [Photography Page](https://bennymeier.de) <br/>
 * [Instagram](https://www.instagram.com/benny_meier/) <br/>
 * [Linkedin](https://www.linkedin.com/in/benjaminmeiermedia/) <br/>
 * [Xing](https://www.xing.com/profile/Benjamin_Meier41) <br/>
