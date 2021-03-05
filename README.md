@@ -12,6 +12,7 @@ I'm a trained Front End Developer studying dual Business Informatics at <strong>
 * ⏳ [MERN-Stack Jira Clone](https://github.com/bennymeier/mern-stack-project-management) - Trying to build a Jira Clone with MongoDB, Express, React and Node.js
 * 🎵 [YT-Downloader](https://github.com/bennymeier/youtube-downloader) - YouTube downloader built with React & Node.js
 * ☂️ [React Weather App](https://github.com/bennymeier/react-weather-app) - Trying to redesign my Weather App built with React
+* ⚡ [SurveyMonkey.com Bot](https://github.com/bennymeier/surveymonkey-autofill-bot) - Autofill surveys on surveyMonkey.com, project made for a friend
 <!--END_SECTION:projects-->
 
 ---
