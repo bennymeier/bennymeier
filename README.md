@@ -17,26 +17,6 @@ I'm a trained Front End Developer studying dual Business Informatics at <strong>
 
 ---
 
-##### My Values
-<!--START_SECTION:values-->
-🧠 Thoughtful <br/>
-🙋‍Authentic Expression <br/>
-💡 Mindset of Learning & Curiosity <br/>
-🙌 Teamwork & Communication
-<!--END_SECTION:values-->
-
----
-
-##### Hobbies
-<!--START_SECTION:hobbies-->
-☕️ Tea Enthusiast <br/>
-⛷️ Avid Skier </br>
-💻 Programming </br>
-📸 Photography
-<!--END_SECTION:hobbies-->
-
----
-
 ##### Connect with Me
 <!--START_SECTION:connect-->
 * [Portfolio](https://www.bennymeier-media.de) <br/>
