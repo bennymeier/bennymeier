@@ -11,9 +11,6 @@ I'm a trained Front End Developer studying dual Business Informatics at <strong>
 * 🎲 [React Tic Tac Toe Game](https://github.com/bennymeier/tic-tac-toe-react) - Tic Tac Toe game written in React, typed with TypeScript and styled with Sass
 * ⏳ [MERN-Stack Jira Clone](https://github.com/bennymeier/mern-stack-project-management) - Trying to build a Jira Clone with MongoDB, Express, React and Node.js
 * 🎵 [YT-Downloader](https://github.com/bennymeier/youtube-downloader) - YouTube downloader built with React & Node.js
-* ☂️ [React Weather App](https://github.com/bennymeier/react-weather-app) - Trying to redesign my Weather App built with React
-* ⚡ [SurveyMonkey.com Bot](https://github.com/bennymeier/surveymonkey-autofill-bot) - Autofill surveys on surveyMonkey.com, project made for a friend
-* ✏ [Scribble.io Clone](https://github.com/bennymeier/scribbl-react-rebuild) - Draw game, you guess the word of what your friend is drawing and type it as fast as you can in the chat
 <!--END_SECTION:projects-->
 
 ---
