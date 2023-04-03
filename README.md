@@ -1,6 +1,6 @@
 <h3 align="center">👋 Hello! I'm Benny.</h3>
 <p align="center">
-I'm a trained Front End Developer studying dual Business Informatics at <strong>DHBW Lörrach</strong>. I'm currently co-oping at United Planet GmbH, where I previously did my apprenticeship as a Frontend Developer.
+I'm a trained Front End Developer studying dual Business Informatics at <strong>DHBW Lörrach</strong>. I'm currently co-oping at INTREXX GmbH, where I previously did my apprenticeship as a Frontend Developer.
 </p>
 
 ---
