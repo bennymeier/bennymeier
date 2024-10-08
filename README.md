@@ -21,6 +21,6 @@ I am a trained frontend developer and have also successfully completed my studie
 * [Portfolio](https://www.bennymeier-media.de) <br/>
 * [Photography](https://bennymeier.de) <br/>
 * [Instagram](https://www.instagram.com/benny_meier/) <br/>
-* [Linkedin](https://www.linkedin.com/in/benjaminmeiermedia/) <br/>
+* [Linkedin](https://www.linkedin.com/in/bennymeier/) <br/>
 * [Xing](https://www.xing.com/profile/Benjamin_Meier41) <br/>
 <!--END_SECTION:connect-->
