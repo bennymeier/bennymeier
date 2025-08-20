@@ -1,6 +1,6 @@
 <h3 align="center">👋 Hello! I'm Benny.</h3>
 <p align="center">
-I am a trained frontend developer and have also successfully completed my studies in business informatics at DHBW Lörrach in 2023. I currently work as a software developer at INTREXX GmbH, where I previously completed my apprenticeship and studies.
+I am a trained frontend developer and have also successfully completed my studies in business informatics at DHBW Lörrach in 2023. I currently work as a Senior Software Engineer at INTREXX GmbH, where I previously completed my apprenticeship and studies.
 </p>
 
 ---
